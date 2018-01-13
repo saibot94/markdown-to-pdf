@@ -1,0 +1,4 @@
+node_modules
+*~
+readme.pdf
+yarn-error.log

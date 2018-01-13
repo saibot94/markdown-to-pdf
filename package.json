@@ -1,0 +1,13 @@
+{
+  "name": "markdown-to-pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Cristi Schuszter",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-pdf": "^8.1.0"
+  },
+  "scripts": {
+  	"start": "node index.js"
+  }
+}
